@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">أفاتار مهندس برمجيات يرتدي نظارة</title><desc id="desc">أفاتار رسومي لمطور ودود بنظارة وقميص أخضر</desc>
+  <defs>
+    <linearGradient id="back" x2="1" y2="1"><stop stop-color="#f5ead4"/><stop offset="1" stop-color="#d5e4d6"/></linearGradient>
+    <linearGradient id="shirt" x2="0" y2="1"><stop stop-color="#31684e"/><stop offset="1" stop-color="#173e31"/></linearGradient>
+    <linearGradient id="skin" x2=".8" y2="1"><stop stop-color="#8c573f"/><stop offset="1" stop-color="#683c30"/></linearGradient>
+    <clipPath id="circle"><circle cx="256" cy="256" r="250"/></clipPath>
+  </defs>
+  <g clip-path="url(#circle)">
+    <rect width="512" height="512" fill="url(#back)"/><circle cx="86" cy="105" r="70" fill="#e6c787" opacity=".5"/><circle cx="430" cy="120" r="94" fill="#c4d9c6" opacity=".65"/>
+    <path d="M72 512q10-117 106-145 32-14 78-14 52 0 89 18 86 33 98 141z" fill="url(#shirt)"/>
+    <path d="M218 336v67q39 31 78 0v-67z" fill="#754637"/><path d="m191 390 65 73 65-73-27-25h-76z" fill="#f0e7d7"/><path d="m247 421 9 14 9-14-9-21z" fill="#d1a75d"/>
+    <ellipse cx="164" cy="244" rx="25" ry="40" fill="#754738"/><ellipse cx="348" cy="244" rx="25" ry="40" fill="#754738"/>
+    <path d="M160 181q10-94 96-94 86 0 96 94l-4 100q-5 84-92 104-86-20-92-104z" fill="url(#skin)"/>
+    <path d="M158 204q-21-112 56-143 53-21 108 4 56 26 40 139-19-35-26-75-57 31-145 4-10 42-33 71z" fill="#242e2a"/>
+    <path d="M193 238q24-17 48 0m35 0q24-17 48 0" fill="none" stroke="#332923" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="217" cy="251" r="7" fill="#1e2925"/><circle cx="298" cy="251" r="7" fill="#1e2925"/>
+    <path d="M181 235q-4 32 4 48 5 11 17 11h32q14 0 17-15l4-33q1-10-10-11h-53q-11 0-11 10zm104 0q-4 32 4 48 4 11 17 11h32q14 0 17-15l4-33q1-10-10-11h-53q-11 0-11 10z" fill="none" stroke="#d9c58f" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M255 249q8-8 15 0" fill="none" stroke="#d9c58f" stroke-width="8" stroke-linecap="round"/><path d="M240 306q16 13 33 0" fill="none" stroke="#edc7a7" stroke-width="7" stroke-linecap="round"/>
+    <path d="M224 327q32 18 65 0" fill="none" stroke="#452e28" stroke-width="7" stroke-linecap="round" opacity=".8"/>
+    <circle cx="133" cy="362" r="13" fill="#d7ad62"/><path d="M133 339v-11m0 57v-11m-23-23h-11m57 0h-11" stroke="#d7ad62" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
