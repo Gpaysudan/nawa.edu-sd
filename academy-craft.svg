@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+  <title id="title">الحرف والتراث والمخبوزات</title><desc id="desc">قماش منسوج مستوحى من الثوب السوداني وصينية مخبوزات</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f7f1e4"/><stop offset="1" stop-color="#eadfd3"/></linearGradient>
+    <linearGradient id="cloth" x2="1" y2="1"><stop stop-color="#587b64"/><stop offset=".54" stop-color="#284f3c"/><stop offset="1" stop-color="#173e31"/></linearGradient>
+    <linearGradient id="pastry" x2="0" y2="1"><stop stop-color="#f2cd87"/><stop offset="1" stop-color="#c88348"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#4c392a" flood-opacity=".17"/></filter>
+    <pattern id="weave" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M0 18 18 0l18 18-18 18z" fill="none" stroke="#d6b777" stroke-width="4" opacity=".83"/><circle cx="18" cy="18" r="4" fill="#e5d6b8"/></pattern>
+  </defs>
+  <rect width="720" height="480" rx="32" fill="url(#bg)"/><circle cx="109" cy="87" r="76" fill="#e7d4ac" opacity=".62"/><circle cx="618" cy="386" r="112" fill="#e3d1bd"/>
+  <g filter="url(#shadow)">
+    <path d="M96 140q50-49 132-23l144 50 63 92-89 106-176-34-69-88z" fill="url(#cloth)" stroke="#d3b571" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M96 140q50-49 132-23l144 50 63 92-89 106-176-34-69-88z" fill="url(#weave)" opacity=".84"/>
+    <path d="m156 181 215 66m-236-28 218 68m-192-127-39 115m101-142-40 139m102-119-40 137m99-103-40 132" fill="none" stroke="#e5c987" stroke-width="4" opacity=".7"/>
+    <ellipse cx="518" cy="329" rx="120" ry="42" fill="#b57943"/><ellipse cx="518" cy="320" rx="116" ry="40" fill="#f0e4cc" stroke="#be9b67" stroke-width="6"/>
+    <path d="M427 320q1-37 42-42 29-37 64-5 47-6 49 47-39 27-77 12-44 23-78-12" fill="url(#pastry)" stroke="#d39658" stroke-width="5"/>
+    <path d="M447 314q27-32 57 0t57-3" fill="none" stroke="#ffe0a3" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="486" cy="293" r="4" fill="#9e633b"/><circle cx="514" cy="286" r="4" fill="#9e633b"/><circle cx="545" cy="299" r="4" fill="#9e633b"/>
+  </g>
+  <path d="M545 126v76m-19-59h38" stroke="#bc945d" stroke-width="7" stroke-linecap="round"/><circle cx="564" cy="112" r="9" fill="#6f9275"/>
+</svg>

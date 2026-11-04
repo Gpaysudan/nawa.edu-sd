@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+  <title id="title">علوم البيانات والذكاء الاصطناعي</title><desc id="desc">لوحة تحليل حديثة وشبكة من عقد البيانات</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f5f3e9"/><stop offset="1" stop-color="#dfe4ef"/></linearGradient>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#fffefa"/><stop offset="1" stop-color="#eff2e8"/></linearGradient>
+    <linearGradient id="leaf" x2="1" y2="1"><stop stop-color="#6ca27d"/><stop offset="1" stop-color="#2b634b"/></linearGradient>
+    <linearGradient id="gold" x2="0" y2="1"><stop stop-color="#e6c27c"/><stop offset="1" stop-color="#c18e49"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="13" stdDeviation="15" flood-color="#273348" flood-opacity=".15"/></filter>
+  </defs>
+  <rect width="720" height="480" rx="32" fill="url(#bg)"/><circle cx="92" cy="91" r="85" fill="#e8d9b7" opacity=".55"/><circle cx="626" cy="390" r="116" fill="#d2dfd6" opacity=".72"/>
+  <g filter="url(#shadow)">
+    <rect x="174" y="78" width="372" height="302" rx="25" fill="url(#panel)" stroke="#d7ddd3" stroke-width="5"/>
+    <rect x="196" y="101" width="328" height="47" rx="12" fill="#173e31"/>
+    <circle cx="221" cy="124" r="7" fill="#e5bf79"/><rect x="241" y="118" width="129" height="11" rx="5" fill="#dfe9db" opacity=".82"/><rect x="466" y="118" width="33" height="11" rx="5" fill="#83b28d"/>
+    <rect x="203" y="166" width="132" height="184" rx="15" fill="#e9eee5"/>
+    <path d="M224 322V258m32 64v-94m32 94v-54m32 54v-125" stroke="url(#leaf)" stroke-width="18" stroke-linecap="round"/>
+    <path d="M222 231h94" stroke="#d1dacf" stroke-width="3" stroke-dasharray="5 9"/>
+    <rect x="353" y="166" width="170" height="82" rx="15" fill="#f4ecda"/>
+    <path d="M376 220c21-24 37-25 54-7s25 13 38-10 25-20 38-28" fill="none" stroke="#488564" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="430" cy="213" r="7" fill="#e5ba70"/><circle cx="468" cy="203" r="6" fill="#8a7099"/><circle cx="506" cy="175" r="7" fill="#4b8061"/>
+    <rect x="353" y="264" width="170" height="86" rx="15" fill="#e8edf1"/>
+    <circle cx="394" cy="307" r="21" fill="none" stroke="#a8b7c2" stroke-width="9"/><path d="M394 286a21 21 0 0 1 19 30" fill="none" stroke="url(#gold)" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="473" cy="291" r="7" fill="#d6aa5d"/><circle cx="498" cy="309" r="7" fill="#8c719a"/><circle cx="465" cy="327" r="7" fill="#4e8a69"/><path d="m473 291 25 18-33 18" fill="none" stroke="#9aaba0" stroke-width="3"/>
+  </g>
+  <path d="M125 344 95 315m30 29 31-31m-31 31v45m-28-20 28-25 27 27" fill="none" stroke="#819c88" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="96" cy="315" r="9" fill="#d6aa5d"/><circle cx="156" cy="313" r="9" fill="#789c7e"/><circle cx="125" cy="389" r="9" fill="#8c719a"/>
+</svg>
